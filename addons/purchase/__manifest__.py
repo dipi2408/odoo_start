@@ -26,6 +26,7 @@
         'views/purchase_template.xml',
         'report/purchase_bill_views.xml',
         'report/purchase_report_views.xml',
+        'data/mail_template_ann.xml',
         'data/mail_template_data.xml',
         'views/portal_templates.xml',
         'report/purchase_order_templates.xml',
